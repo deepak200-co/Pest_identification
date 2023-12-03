@@ -1,0 +1,16 @@
+.options{
+    position: fixed;
+    left: 60%;
+}
+
+.imag{
+    position: relative;
+    right: 25%;
+}
+
+select{
+    width: 160%;
+    height: 40px;
+}
+  
+ 

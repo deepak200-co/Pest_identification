@@ -1,0 +1,75 @@
+{
+    "ants": {
+      "pest": "Ants",
+      "pesticides": "Ant Killer Spray",
+      "fertilizers": "All-purpose Plant Food",
+      "precautions": "Avoid overwatering"
+    },
+    "bees": {
+      "pest": "Bees",
+      "pesticides": "Bee Repellent Spray",
+      "fertilizers": "Bee-friendly Pollinator Mix",
+      "precautions": "Provide a water source"
+    },
+    "beetle": {
+      "pest": "Beetle",
+      "pesticides": "Beetle Insecticide",
+      "fertilizers": "Vegetable Garden Fertilizer",
+      "precautions": "Keep garden clean and weed-free"
+    },
+    "caterpillar": {
+      "pest": "Caterpillar",
+      "pesticides": "Caterpillar Bt Spray",
+      "fertilizers": "Organic Garden Fertilizer",
+      "precautions": "Inspect plants regularly"
+    },
+    "earthworms": {
+      "pest": "Earthworms",
+      "pesticides": "None",
+      "fertilizers": "Organic Compost",
+      "precautions": "Maintain soil health"
+    },
+    "earwig": {
+      "pest": "Earwig",
+      "pesticides": "Earwig Bait",
+      "fertilizers": "Balanced Garden Fertilizer",
+      "precautions": "Remove hiding places"
+    },
+    "grasshopper": {
+      "pest": "Grasshopper",
+      "pesticides": "Neem Oil Spray",
+      "fertilizers": "Grasshopper-resistant plants",
+      "precautions": "Keep garden well-maintained"
+    },
+    "moth": {
+      "pest": "Moth",
+      "pesticides": "Moth Traps",
+      "fertilizers": "Flowering Plant Fertilizer",
+      "precautions": "Use proper storage for clothes"
+    },
+    "slug": {
+      "pest": "Slug",
+      "pesticides": "Slug Bait",
+      "fertilizers": "Slug-resistant plants",
+      "precautions": "Keep garden clean and dry"
+    },
+    "snail": {
+      "pest": "Snail",
+      "pesticides": "Snail Pellets",
+      "fertilizers": "Moisture-retaining soil",
+      "precautions": "Provide barriers like copper tape"
+    },
+    "wasp": {
+      "pest": "Wasp",
+      "pesticides": "Wasp Repellent Spray",
+      "fertilizers": "Pollinator-friendly plants",
+      "precautions": "Avoid swatting or disturbing nests"
+    },
+    "weevil": {
+      "pest": "Weevil",
+      "pesticides": "Weevil Insecticide",
+      "fertilizers": "Fertilize during the growing season",
+      "precautions": "Monitor plants for signs of weevils"
+    }
+  }
+  

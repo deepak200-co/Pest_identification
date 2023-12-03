@@ -1,0 +1,38 @@
+.about-us-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+  }
+  
+  .team-member {
+    background-color: #f9f9f9;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .team-member h2 {
+    color: #333;
+  }
+  
+  .role {
+    font-weight: bold;
+  }
+  
+  .recent-project {
+    background-color: #eaeaea;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .recent-project h2 {
+    color: #333;
+  }
+  
